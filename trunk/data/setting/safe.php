@@ -1,0 +1,3 @@
+<?php
+$safeinfo = array('php',';');
+?>
